@@ -1,0 +1,15 @@
+
+
+body{
+    text-align: center;
+    height: 100vh;
+    background-image: linear-gradient(to right, rgb(0, 255, 0),
+     rgb(255, 0, 0)
+    );
+}
+body h1{
+    width: 100%;
+    font-size: 80px;
+    letter-spacing: 2px;
+    margin: 30px;
+}
